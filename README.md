@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: pbtest
+- Facilitator: @parkerbxyz
 
 ## Class Resources
 
